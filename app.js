@@ -31,6 +31,3 @@ mongoose.connection.on('connected',(result)=>{
 mongoose.connection.on('error',(err)=>{
     console.log(err);
 })
-
-// 58hWaAH2cvRhKs4t
-// db_user4
